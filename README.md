@@ -1,6 +1,6 @@
 # README Best Practices
 
-O intuito do projeto Rails API tem como fco termos uma aplicação com boas práticas para que possamos utilizar como referencia em todos  os projetos desenvolvidos
+O intuito do projeto Rails API tem como foco termos uma aplicação com boas práticas para que possamos utilizar como referencia em todos  os projetos desenvolvidos
 
 # Version
 
