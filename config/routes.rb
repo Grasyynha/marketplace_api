@@ -10,4 +10,4 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   # root "posts#index"
 end
-rails generate rspec:swagger API::MyController
+#rails generate rspec:swagger API::MyController
