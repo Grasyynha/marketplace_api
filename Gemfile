@@ -33,11 +33,13 @@ group :development, :test do
   gem 'factory_bot_rails', '~> 6.4', '>= 6.4.3'
 
   group :test do
-    gem 'simplecov', '~> 0.22.0', require: false
+  gem 'simplecov', '~> 0.22.0', require: false
+  gem 'shoulda-matchers', '~> 6.0'
   end
+ end
 
   group :development do
     # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
     # gem "spring"
   end
-end
+

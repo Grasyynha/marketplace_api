@@ -257,6 +257,8 @@ GEM
       parser (>= 3.2.1.0)
     ruby-progressbar (1.13.0)
     ruby2_keywords (0.0.5)
+    shoulda-matchers (6.0.0)
+      activesupport (>= 5.2.0)
     simplecov (0.22.0)
       docile (~> 1.1)
       simplecov-html (~> 0.11)
@@ -296,6 +298,7 @@ DEPENDENCIES
   rswag-specs (~> 2.13)
   rswag-ui
   rubocop (~> 1.59)
+  shoulda-matchers (~> 6.0)
   simplecov (~> 0.22.0)
   tzinfo-data
 
